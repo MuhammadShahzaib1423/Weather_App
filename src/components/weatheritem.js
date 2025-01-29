@@ -14,3 +14,4 @@ const WeatherItem = ({ Name, temp_f, temp_c, humidity, forecast, icon, date }) =
 };
 
 export default WeatherItem;
+
